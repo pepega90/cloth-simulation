@@ -10,4 +10,4 @@ Uses
 
 [Reference](https://gamedevelopment.tutsplus.com/tutorials/simulate-tearable-cloth-and-ragdolls-with-simple-verlet-integration--gamedev-519)
 
-<img src="https://github.com/pepega90/cloth-simulaton/blob/main/cloth_preview.gif" />
+<img src="https://github.com/pepega90/cloth-simulation/blob/main/cloth_preview.gif" />
